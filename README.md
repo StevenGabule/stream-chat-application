@@ -2,6 +2,10 @@
 
 A real-time chat application built with React Native, Expo, TypeScript, and Stream Chat SDK.
 
+## Demo
+
+[Watch the demo on Loom](https://www.loom.com/share/18228f5bc9eb4744ad4750eeebde49af)
+
 ## Tech Stack
 
 - **React Native** with **Expo SDK 54**
